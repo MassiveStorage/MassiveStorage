@@ -1,2 +1,2 @@
 ### Hi there 👋
-I'm MassiveStorage
+I'm MassiveStorage, a software developer and admin
