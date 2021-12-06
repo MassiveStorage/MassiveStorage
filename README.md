@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm MassiveStorage, software developer and admin.
  - PHP/HTML/CSS
- - CPP
+ - C++
  - Docker
  - Python
