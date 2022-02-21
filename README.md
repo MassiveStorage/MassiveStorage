@@ -9,5 +9,5 @@ I'm MassiveStorage, software developer and admin.
  - Docker
  - Ansible
  - JavaScript(still learning)
-  - a little bit of nodejs
-  - a little bit of pug templating engine
+    - a little bit of nodejs
+    - a little bit of pug templating engine
