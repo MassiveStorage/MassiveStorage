@@ -8,4 +8,6 @@ I'm MassiveStorage, software developer and admin.
  - Python
  - Docker
  - Ansible
- - a little bit of nodejs
+ - JavaScript(still learning)
+  - a little bit of nodejs
+  - a little bit of pug templating engine
