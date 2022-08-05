@@ -11,8 +11,27 @@ Some of the technologies I'm currently using are:
 - C and C++
 - Python
 
-# DevOps and system administration
+# DevOps
 - Ansible
 - Docker
 
+# Administration
+## Firewalls
+- pfSense
+- opnSense
+- Sophos XG
+
+## Network Infrastructure
+- Ubiquity Unifi
+
+## Virtualization
+- VMware ESXi
+- Oracle VirtualBox
+
+## Databases
+- MySQL
+
+## WebServers and reverse proxies
+- apache2
+- nginx
 
