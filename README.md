@@ -2,16 +2,17 @@ I'm MassiveStorage, software developer and system administrator.
 
 Some of the technologies I'm currently using are:
 
-# Web Development
+# Development
+## Web
 - PHP
 - HTML
 - CSS
 
-# Native applications
+## Native applications
 - C and C++
 - Python
 
-# DevOps
+## DevOps
 - Ansible
 - Docker
 
