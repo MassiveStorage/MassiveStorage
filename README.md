@@ -1,6 +1,6 @@
 I'm MassiveStorage, software developer and system administrator.
 
-Some of the technologies I'm currently using are:
+Technologies I'm using:
 
 # Development
 ## Web
@@ -17,6 +17,13 @@ Some of the technologies I'm currently using are:
 - Docker
 
 # Administration
+## OS
+- Windows Server
+- Windows 10
+- Ubuntu Server
+- Ubuntu Desktop
+- Raspbian light
+
 ## Firewalls
 - pfSense
 - opnSense
@@ -36,3 +43,6 @@ Some of the technologies I'm currently using are:
 - apache2
 - nginx
 
+## Monitoring
+- Zabbix
+- PRTG
