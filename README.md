@@ -17,6 +17,8 @@ Technologies I'm using:
 - Docker
 
 # Administration
+ - Powershell
+
 ## OS
 - Windows Server
 - Windows 10
