@@ -1,6 +1,6 @@
 # Aperture-Science - We Love Testing
 
-Hi, I'm MassiveStorage. I am a trained software developer and currently work as a system administrator.
+Hi, I'm MassiveStorage. I am a trained software developer.
 Currently I'm working as a system administrator
 
 Technologies I'm using:
