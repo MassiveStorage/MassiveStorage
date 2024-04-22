@@ -40,6 +40,7 @@ Technologies I'm using:
 ## Virtualization
 - VMware ESXi
 - Oracle VirtualBox
+- Proxmox
 
 ## Databases
 - MySQL
